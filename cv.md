@@ -11,6 +11,7 @@ Skills:
 -Scrum, Waterfall, Agile, Kanban, BDD way
 -Figma, Adobe Photoshop, Avocode, 3ds Max, sketch up
 -Bootstrap, SASS/SCSS/LESS (learning)
+-English (B1-B2), Spanish (B2), Russian (native)
 -Managerial
 -Marketing
 -Good communicative skills in acquiring clients
